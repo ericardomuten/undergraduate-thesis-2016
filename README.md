@@ -11,8 +11,8 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - *Speed Control Design of the Automated People Mover System Train Using PID Particle Swarm Optimization Paralleled with Fuzzy Logic Sugeno for Speed and Position Target to Number of Passengers Variations* by Adi Dwi Yulianto and Muhammad Shafwan Faturrahman.
 
 ### Energy Management
-<!-- ** by Ammar Akila Azhar and Faishal Rafi Elian.>
-<!-- ** by Diana Vitonia and Meilisa Dewi Kharisma.>
+<!-- ** by Ammar Akila Azhar and Faishal Rafi Elian. -->
+<!-- ** by Diana Vitonia and Meilisa Dewi Kharisma. -->
 
 ### Medical Physics
 - *Study on 3D Imaging of Broadmann Area for Hand Gripping Activity Based on EEG Signal Using ICA-eLORETA* by Angga Bayu Prakhosha and Simon Willyanto Laufried.
