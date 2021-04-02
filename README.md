@@ -3,9 +3,6 @@
 This repository is a list of undergraduate thesis projects by engineering physics students (batch 2016) at Bandung Institut of Technology (ITB). The list contains the title of the thesis and the authors, where they are linked to the GitHub repository and contacts, respectively.
 
 ### Control
-#### Building Physics
-- *Designing of Web-Based Distributed Control System for Electric Lighting in SARAGA ITB Tunnel Scale Model* by Abdurrahman Al Muharik and Muhammad Mahendra Subrata.
-- *Development of Predictive Room Temperature Model Using Gray-Box Modelling* by Larasati Rahma Sya'bannisa and Reyza Arif Mahendra Natawidjaj.
 #### Intelligent Systems
 - [*UAV Monitoring System with Machine Learning Based Predictive Maintenance and Digital Twin Methods*]() by Nabila Zahra and [Rasis Syauqi Buldan]().
 #### Vehicle Automation
@@ -21,6 +18,11 @@ This repository is a list of undergraduate thesis projects by engineering physic
 
 ### Medical Physics
 - *Study on 3D Imaging of Broadmann Area for Hand Gripping Activity Based on EEG Signal Using ICA-eLORETA* by Angga Bayu Prakhosha and Simon Willyanto Laufried.
+
+### Building Physics and Acoustics
+- *Designing of Web-Based Distributed Control System for Electric Lighting in SARAGA ITB Tunnel Scale Model* by Abdurrahman Al Muharik and Muhammad Mahendra Subrata.
+- *Development of Predictive Room Temperature Model Using Gray-Box Modelling* by Larasati Rahma Sya'bannisa and Reyza Arif Mahendra Natawidjaj.
+- *Evaluation and Treatment of Noise in Light Railway Transit Floor Based On Waveguide Finite Element - Boundary Element Method* by Ainil Khairin Nisa and Genta Muhammad Rahayu.
 
 ### Materials Science
 - *Electronic States Mapping in the Intrinsic Defects Formation of the (112)/(<img src="https://render.githubusercontent.com/render/math?math=\overline{112}">) Solar Cells <img src="https://render.githubusercontent.com/render/math?math=Cu_{2}ZnSnS_{4}"> (CZTS) with First-principles Method* by Kevin Octavian and Michael Yoshua.
