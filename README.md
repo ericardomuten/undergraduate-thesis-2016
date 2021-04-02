@@ -6,12 +6,14 @@ This repository is a list of undergraduate thesis projects by engineering physic
 #### Building Physics
 - *Designing of Web-Based Distributed Control System for Electric Lighting in SARAGA ITB Tunnel Scale Model* by Abdurrahman Al Muharik and Muhammad Mahendra Subrata.
 - *Development of Predictive Room Temperature Model Using Gray-Box Modelling* by Larasati Rahma Sya'bannisa and Reyza Arif Mahendra Natawidjaj.
+#### Intelligent Systems
+- [*UAV Monitoring System with Machine Learning Based Predictive Maintenance and Digital Twin Methods*]() by Nabila Zahra and [Rasis Syauqi Buldan]().
 #### Vehicle Automation
 - *Implementation of Longitudinal and Lateral Control on Autonomous Vehicle* by Fadillah Adamsyah Ma'ani and Prasetyo Wibowo Laksono S.
 - *Perception System Design for Multiple Object Tracking in Autonomous Vehicles* by Gilbert Tjahjono and Joshua Abel Oktavianus.
 - *Localization System on Autonomous Vehicle Based on GNSS, IMU, and Wheel Speed Sensor Using Unscented Kalman Filter* by Annisa Zulfa Hidayah and Atwin Paramudya.
-<!-- ** by Muhamad Tartila Sahid. -->- *Speed Control Design of the Automated People Mover System Train Using PID Particle Swarm Optimization Paralleled with Fuzzy Logic Sugeno for Speed and Position Target to Number of Passengers Variations* by Adi Dwi Yulianto and Muhammad Shafwan Faturrahman.
-
+- *Speed Control Design of the Automated People Mover System Train Using PID Particle Swarm Optimization Paralleled with Fuzzy Logic Sugeno for Speed and Position Target to Number of Passengers Variations* by Adi Dwi Yulianto and Muhammad Shafwan Faturrahman.
+<!-- ** by Muhamad Tartila Sahid. -->
 ### Energy Management
 - *Development of Reinforcement Learning Based Controller for Electric Vehicle Energy Management with Hybrid Energy Storage System* by Arya Syaefulah Farsya and Thoriq Fauzan Ariandi.
 <!-- ** by Ammar Akila Azhar and Faishal Rafi Elian. -->
