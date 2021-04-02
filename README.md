@@ -13,7 +13,8 @@ This repository is a list of undergraduate thesis projects by engineering physic
 <!-- ** by Muhamad Tartila Sahid. -->
 ### Energy Management
 - *Development of Reinforcement Learning Based Controller for Electric Vehicle Energy Management with Hybrid Energy Storage System* by Arya Syaefulah Farsya and Thoriq Fauzan Ariandi.
-<!-- ** by Ammar Akila Azhar and Faishal Rafi Elian. -->
+- *Battery Degradation Modelling for Two-Wheeled Electric Vehicle with Machine Learning* by Ammar Akila Azhar and Faishal Rafi Elian.
+<!-- ** by Hanafi Kusumayudha and Salsabila. -->
 <!-- ** by Diana Vitonia and Meilisa Dewi Kharisma. -->
 
 ### Medical Physics
