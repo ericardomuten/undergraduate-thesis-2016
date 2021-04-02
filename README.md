@@ -18,7 +18,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - *Study on 3D Imaging of Broadmann Area for Hand Gripping Activity Based on EEG Signal Using ICA-eLORETA* by Angga Bayu Prakhosha and Simon Willyanto Laufried.
 
 ### Materials Science
-- *Electronic States Mapping in the Intrinsic Defects Formation of the (112)/(112) Solar Cells <img src="https://render.githubusercontent.com/render/math?math=Cu_{2}ZnSnS_{4}"> (CZTS) with First-principles Method* by Kevin Octavian and Michael Yoshua.
+- *Electronic States Mapping in the Intrinsic Defects Formation of the (112)/(<img src="https://render.githubusercontent.com/render/math?math=\bar{112}">) Solar Cells <img src="https://render.githubusercontent.com/render/math?math=Cu_{2}ZnSnS_{4}"> (CZTS) with First-principles Method* by Kevin Octavian and Michael Yoshua.
 
 ### Quantum Computing
 - *Quantum Image Classifier Design with Data Re-uploading Quantum Convolution and Data Re-uploading Classifier Scheme* by Eraraya Ricardo Muten.
