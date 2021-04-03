@@ -4,7 +4,8 @@ This repository is a list of undergraduate thesis projects by engineering physic
 
 ### Control
 #### Intelligent Systems
-- [*UAV Monitoring System with Machine Learning Based Predictive Maintenance and Digital Twin Methods*]() by Nabila Zahra and [Rasis Syauqi Buldan]().
+- [*UAV Monitoring System with Machine Learning Based Predictive Maintenance and Digital Twin Methods*](https://github.com/rasisbuldan/ta-shop) by Nabila Zahra and [Rasis Syauqi Buldan](https://www.linkedin.com/in/rasis-syauqi-buldan-383837180) ([github](https://github.com/rasisbuldan)).
+    - [Dashboard for monitoring and real-time model prediction for Parrot AR Drone 2.0](https://github.com/rasisbuldan/airdash) (NodeJS - TensorflowJS) 
 #### Vehicle Automation
 - *Implementation of Longitudinal and Lateral Control on Autonomous Vehicle* by Fadillah Adamsyah Ma'ani and Prasetyo Wibowo Laksono S.
 - *Perception System Design for Multiple Object Tracking in Autonomous Vehicles* by Gilbert Tjahjono and Joshua Abel Oktavianus.
