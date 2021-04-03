@@ -31,4 +31,4 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - *Selectivity of Nickel and Cobalt Catalysts for Hydrogen Decomposition on Direct Hydrazine Fuel Cell* by M Ghalib Alfaza.
 
 ### Quantum Computing
-- *Quantum Image Classifier Design with Data Re-uploading Quantum Convolution and Data Re-uploading Classifier Scheme* by Eraraya Ricardo Muten.
+- [*Quantum Image Classifier Design with Data Re-uploading Quantum Convolution and Data Re-uploading Classifier Scheme*](https://github.com/eraraya-ricardo/quantum_image_classifier) by [Eraraya Ricardo Muten](https://www.linkedin.com/in/e-ricardo/).
