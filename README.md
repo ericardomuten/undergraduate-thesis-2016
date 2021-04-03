@@ -21,7 +21,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - *Study on 3D Imaging of Broadmann Area for Hand Gripping Activity Based on EEG Signal Using ICA-eLORETA* by Angga Bayu Prakhosha and Simon Willyanto Laufried.
 
 ### Building Physics and Acoustics
-- *Designing of Web-Based Distributed Control System for Electric Lighting in SARAGA ITB Tunnel Scale Model* by Abdurrahman Al Muharik and Muhammad Mahendra Subrata.
+- [*Designing of Web-Based Distributed Control System for Electric Lighting in SARAGA ITB Tunnel Scale Model*](https://github.com/mumahendras3/saraga-tunnel-electric-lighting-control-prototype) by [Abdurrahman Al Muharrik](https://www.linkedin.com/in/abdurrahmanalmuharik/) and [Muhammad Mahendra Subrata](https://www.linkedin.com/in/mumahendras3/).
 - *Development of Predictive Room Temperature Model Using Gray-Box Modelling* by Larasati Rahma Sya'bannisa and Reyza Arif Mahendra Natawidjaj.
 - *Evaluation and Treatment of Noise in Light Railway Transit Floor Based On Waveguide Finite Element - Boundary Element Method* by Ainil Khairin Nisa and Genta Muhammad Rahayu.
 
