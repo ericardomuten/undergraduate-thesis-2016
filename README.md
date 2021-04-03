@@ -8,7 +8,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
     - [Dashboard for monitoring and real-time model prediction for Parrot AR Drone 2.0](https://github.com/rasisbuldan/airdash) (NodeJS - TensorflowJS) 
 #### Vehicle Automation
 - *Implementation of Longitudinal and Lateral Control on Autonomous Vehicle* by Fadillah Adamsyah Ma'ani and Prasetyo Wibowo Laksono S.
-- [*Perception System Design for Multiple Object Tracking in Autonomous Vehicles*](https://github.com/GilbertTjahjono/Multiple_Object_Tracking) by [Gilbert Tjahjono](https://bit.ly/gilbert_tjahjono) and Joshua Abel Oktavianus.
+- [*Perception System Design for Multiple Object Tracking in Autonomous Vehicles*](https://github.com/GilbertTjahjono/Multiple_Object_Tracking) by [Gilbert Tjahjono](https://bit.ly/gilbert_tjahjono) and [Joshua Abel Oktavianus](https://www.linkedin.com/in/joshuaabel20/).
 - *Localization System on Autonomous Vehicle Based on GNSS, IMU, and Wheel Speed Sensor Using Unscented Kalman Filter* by Annisa Zulfa Hidayah and Atwin Paramudya.
 - *Speed Control Design of the Automated People Mover System Train Using PID Particle Swarm Optimization Paralleled with Fuzzy Logic Sugeno for Speed and Position Target to Number of Passengers Variations* by Adi Dwi Yulianto and Muhammad Shafwan Faturrahman.
 <!-- ** by Muhamad Tartila Sahid. -->
