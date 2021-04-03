@@ -9,7 +9,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 #### Vehicle Automation
 - *Implementation of Longitudinal and Lateral Control on Autonomous Vehicle* by Fadillah Adamsyah Ma'ani and Prasetyo Wibowo Laksono S.
 - [*Perception System Design for Multiple Object Tracking in Autonomous Vehicles*](https://github.com/GilbertTjahjono/Multiple_Object_Tracking) by [Gilbert Tjahjono](https://bit.ly/gilbert_tjahjono) and [Joshua Abel Oktavianus](https://www.linkedin.com/in/joshuaabel20/).
-- [*2D Object Detection and Tracking Based On Camera and LiDAR Data for Autonomous Vehicle Navigation*](https://github.com/rezanatha/object-detector-fusion) by [Wayan Rezaldi Widyanatha](www.linkedin.com/in/wayanrezaldi) and Arlin Nur Ramadhani
+- [*2D Object Detection and Tracking Based On Camera and LiDAR Data for Autonomous Vehicle Navigation*](https://github.com/rezanatha/object-detector-fusion) by [Wayan Rezaldi Widyanatha](https://www.linkedin.com/in/wayanrezaldi) and Arlin Nur Ramadhani
 - *Localization System on Autonomous Vehicle Based on GNSS, IMU, and Wheel Speed Sensor Using Unscented Kalman Filter* by Annisa Zulfa Hidayah and Atwin Paramudya.
 - *2D Object Detection and Tracking Based on Camera and Lidar Data for an Autonomous Vehicle* by Arlin Nur Ramadhani and Wayan Rezaldi Widyanatha.
 - *Speed Control Design of the Automated People Mover System Train Using PID Particle Swarm Optimization Paralleled with Fuzzy Logic Sugeno for Speed and Position Target to Number of Passengers Variations* by Adi Dwi Yulianto and Muhammad Shafwan Faturrahman.
