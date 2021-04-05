@@ -11,6 +11,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - [*Perception System Design for Multiple Object Tracking in Autonomous Vehicles*](https://github.com/GilbertTjahjono/Multiple_Object_Tracking) by [Gilbert Tjahjono](https://bit.ly/gilbert_tjahjono) and [Joshua Abel Oktavianus](https://www.linkedin.com/in/joshuaabel20/).
 - [*2D Object Detection and Tracking Based On Camera and LiDAR Data for Autonomous Vehicle Navigation*](https://github.com/rezanatha/object-detector-fusion) by [Wayan Rezaldi Widyanatha](https://www.linkedin.com/in/wayanrezaldi) and [Arlin Nur Ramadhani](https://linkedin.com/in/arlin-nur-ramadhani).
 - *Localization System on Autonomous Vehicle Based on GNSS, IMU, and Wheel Speed Sensor Using Unscented Kalman Filter* by Annisa Zulfa Hidayah and Atwin Paramudya.
+- *2D Object Detection and Tracking Based on Camera and Lidar Data for an Autonomous Vehicle* by Arlin Nur Ramadhani and Wayan Rezaldi Widyanatha.
 - [*Speed Control Design of the Automated People Mover System Train Using PID Particle Swarm Optimization Paralleled with Fuzzy Logic Sugeno for Speed and Position Target to Number of Passengers Variations*](https://github.com/msffatur/PID-PSO) by Adi Dwi Yulianto and [Muhammad Shafwan Faturrahman](https://github.com/msffatur).
 - [*Study and Implementation of Autonomous Vehicle Lateral Control System via Lyapunov Stability Method and Deep Reinforcement Learning*](https://github.com/dispectra/lyapunov_pf) by [Dimas Apeco Putra](https://github.com/dispectra).
 <!-- ** by Muhamad Tartila Sahid. -->
@@ -29,7 +30,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - *Evaluation and Treatment of Noise in Light Railway Transit Floor Based On Waveguide Finite Element - Boundary Element Method* by Ainil Khairin Nisa and Genta Muhammad Rahayu.
 
 ### Materials Science
-- *Electronic States Mapping in the Intrinsic Defects Formation of the (112)/(<img src="https://render.githubusercontent.com/render/math?math=\overline{112}">) Solar Cells <img src="https://render.githubusercontent.com/render/math?math=Cu_{2}ZnSnS_{4}"> (CZTS) with First-principles Method* by Kevin Octavian and [Michael Yoshua](linkedin.com/in/michael-yoshua).
+- [*Electronic States Mapping in the Intrinsic Defects Formation of the (112)/(<img src="https://render.githubusercontent.com/render/math?math=\overline{112}">) Solar Cells <img src="https://render.githubusercontent.com/render/math?math=Cu_{2}ZnSnS_{4}"> (CZTS) with First-principles Method*](https://github.com/MichaelYoshua98/SolarCellCZTS) by Kevin Octavian and [Michael Yoshua](linkedin.com/in/michael-yoshua).
 - *Selectivity of Nickel and Cobalt Catalysts for Hydrogen Decomposition on Direct Hydrazine Fuel Cell* by M Ghalib Alfaza.
 
 ### Quantum Computing
