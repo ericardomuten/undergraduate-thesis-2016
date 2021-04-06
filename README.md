@@ -7,7 +7,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - [*UAV Monitoring System with Machine Learning Based Predictive Maintenance and Digital Twin Methods*](https://github.com/rasisbuldan/ta-shop) by Nabila Zahra and [Rasis Syauqi Buldan](https://www.linkedin.com/in/rasis-syauqi-buldan-383837180) ([github](https://github.com/rasisbuldan)).
     - [Dashboard for monitoring and real-time model prediction for Parrot AR Drone 2.0](https://github.com/rasisbuldan/airdash) (NodeJS - TensorflowJS) 
 #### Vehicle Automation
-- *Implementation of Longitudinal and Lateral Control on Autonomous Vehicle* by Fadillah Adamsyah Ma'ani and Prasetyo Wibowo Laksono S.
+- [*Implementation of Longitudinal and Lateral Control on Autonomous Vehicle*](https://github.com/fadamsyah/final-project) by [Fadillah Adamsyah Ma'ani](https://github.com/fadamsyah/) and [Prasetyo Wibowo Laksono S.](https://github.com/mzprz)
 - [*Perception System Design for Multiple Object Tracking in Autonomous Vehicles*](https://github.com/GilbertTjahjono/Multiple_Object_Tracking) by [Gilbert Tjahjono](https://bit.ly/gilbert_tjahjono) and [Joshua Abel Oktavianus](https://www.linkedin.com/in/joshuaabel20/).
 - [*2D Object Detection and Tracking Based On Camera and LiDAR Data for Autonomous Vehicle Navigation*](https://github.com/rezanatha/object-detector-fusion) by [Wayan Rezaldi Widyanatha](https://www.linkedin.com/in/wayanrezaldi) and [Arlin Nur Ramadhani](https://linkedin.com/in/arlin-nur-ramadhani).
 - *Localization System on Autonomous Vehicle Based on GNSS, IMU, and Wheel Speed Sensor Using Unscented Kalman Filter* by Annisa Zulfa Hidayah and Atwin Paramudya.
