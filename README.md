@@ -5,7 +5,8 @@ This repository is a list of undergraduate thesis projects by engineering physic
 ### Control
 #### Intelligent Systems
 - [*UAV Monitoring System with Machine Learning Based Predictive Maintenance and Digital Twin Methods*](https://github.com/rasisbuldan/ta-shop) by Nabila Zahra and [Rasis Syauqi Buldan](https://www.linkedin.com/in/rasis-syauqi-buldan-383837180) ([GitHub](https://github.com/rasisbuldan)).
-    - [Dashboard for monitoring and real-time model prediction for Parrot AR Drone 2.0](https://github.com/rasisbuldan/airdash) (NodeJS - TensorflowJS) 
+    - [Dashboard for monitoring and real-time model prediction for Parrot AR Drone 2.0](https://github.com/rasisbuldan/airdash) (NodeJS - TensorflowJS)
+ - [*Gantry Crane Control System Design Using Adaptive PID Controller Based on LQR, Genetic Algorithm and Q-Learning*] by Ananda Putera Dharma and Zulfa Wahyu Wijaya.
 #### Vehicle Automation
 - [*Implementation of Longitudinal and Lateral Control on Autonomous Vehicle*](https://github.com/fadamsyah/final-project) by [Fadillah Adamsyah Ma'ani](https://www.linkedin.com/in/fadamsyah/) and [Prasetyo Wibowo Laksono S.](https://www.linkedin.com/in/prasetyowls/) ([GitHub](https://github.com/mzprz)).
 - [*Perception System Design for Multiple Object Tracking in Autonomous Vehicles*](https://github.com/GilbertTjahjono/Multiple_Object_Tracking) by [Gilbert Tjahjono](https://bit.ly/gilbert_tjahjono) and [Joshua Abel Oktavianus](https://www.linkedin.com/in/joshuaabel20/).
@@ -20,7 +21,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 <!-- ** by Hanafi Kusumayudha and Salsabila. -->
 <!-- ** by Diana Vitonia and Meilisa Dewi Kharisma. -->
 
-### Medical Physics
+### Medical Instrumentations
 - *Study on 3D Imaging of Broadmann Area for Hand Gripping Activity Based on EEG Signal Using ICA-eLORETA* by Angga Bayu Prakhosha and Simon Willyanto Laufried.
 
 ### Building Physics and Acoustics
