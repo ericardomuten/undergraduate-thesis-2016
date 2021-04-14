@@ -25,6 +25,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - *Development of Reinforcement Learning Based Controller for Electric Vehicle Energy Management with Hybrid Energy Storage System* by Arya Syaefulah Farsya and Thoriq Fauzan Ariandi.
 - [*Battery System Degradation Modelling for Two-Wheel Electric Vehicle based on Machine Learning*](https://github.com/ammarakila17/tugas_akhir) by [Ammar Akila Azhar](https://www.linkedin.com/in/ammar-akila-azhar-36853a159/) and [Faishal Rafi Elian](https://www.linkedin.com/in/faishal-rafi-elian/).
 - *Modeling and Simulation of Battery Energy Storage System for Voltage Regulation in Smart Microgrid* by M Daya Imannata and Timotius Pratama Tjahja.
+- *Design and Analysis of On-Grid Solar Power Plant as a Function of Peak Load Shaving* by Alief Widjoseno Damar Persada and Muhamad Riezar Satria Sheba.
 <!-- ** by Hanafi Kusumayudha and Salsabila. -->
 <!-- ** by Diana Vitonia and Meilisa Dewi Kharisma. -->
 
@@ -43,6 +44,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - [*Electronic States Mapping in the Intrinsic Defects Formation of the (112)/(<img src="https://render.githubusercontent.com/render/math?math=\overline{112}">) Solar Cells Cu<sub>2</sub>ZnSnS<sub>4</sub> (CZTS) with First-principles Method*](https://github.com/MichaelYoshua98/SolarCellCZTS) by [Kevin Octavian](https://www.linkedin.com/in/kevinoctavian/) ([GitHub](https://github.com/kvnoct)) and [Michael Yoshua](https://www.linkedin.com/in/michael-yoshua/).
     - [VASP Electronic States Parsing Tool](https://github.com/kvnoct/VASP-Electronic-States-Parser) 
 - *Selectivity of Nickel and Cobalt Catalysts for Hydrogen Decomposition on Direct Hydrazine Fuel Cell* by M Ghalib Alfaza.
+- *Carbon Dioxide to Carbon Monoxide Nickel-Based Electrocatalyst Activity Study* by Yusuf Prasetyo.
 - *A Study of Transitional Metal Migration in Nickel-Rich Layered Metal Oxide Cathode* by Ravanny Waraney Moesa Komalig.
 
 ### Quantum Computing
