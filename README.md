@@ -14,6 +14,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - [*Localization System on Autonomous Vehicle Based on GNSS, IMU, and Wheel Speed Sensor Using Unscented Kalman Filter*](https://github.com/anzulfa/localization_system) by [Annisa Zulfa Hidayah](https://www.linkedin.com/in/annisa-zulfa-hidayah/) and [Atwin Paramudya](https://www.linkedin.com/in/paramudya/) ([GitHub](https://github.com/paramudya)).
 - [*Speed Control Design of the Automated People Mover System Train Using PID Particle Swarm Optimization Paralleled with Fuzzy Logic Sugeno for Speed and Position Target to Number of Passengers Variations*](https://github.com/msffatur/final-project) by [Adi Dwi Yulianto](https://www.linkedin.com/in/adi-dwi-yulianto-79b9811a1/) and [Muhammad Shafwan Faturrahman](https://github.com/msffatur).
 - [*Study and Implementation of Autonomous Vehicle Lateral Control System via Lyapunov Stability Method and Deep Reinforcement Learning*](https://github.com/dispectra/lyapunov_pf) by [Dimas Apeco Putra](https://github.com/dispectra).
+- *Obstacle Avoidance Control System Design for Autonomous Truck-Trailer with Lane Change Maneuver* by I Komang Agus Jony Wirawan and Indah Radityo Putri.
 #### Instrumentations
 - *Simulation Control of Inflow Rate and Level of Fluid in Mini Plant Boiler BDT 921 Using PI Controller with Feedback, Cascade, and Feedforward-Feedback Control Strategies* by Ferisyal Ramli and Jiilul Qur'anil Fariq.
 <!-- ** by Muhamad Tartila Sahid. -->
