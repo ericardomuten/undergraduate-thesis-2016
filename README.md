@@ -29,7 +29,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - *Evaluation and Treatment of Noise in Light Railway Transit Floor Based On Waveguide Finite Element - Boundary Element Method* by Ainil Khairin Nisa and Genta Muhammad Rahayu.
 
 ### Materials Science
-- [*Electronic States Mapping in the Intrinsic Defects Formation of the (112)/(<img src="https://render.githubusercontent.com/render/math?math=\overline{112}">) Solar Cells Cu<sub>2</sub>ZnSnS<sub>4</sub> (CZTS) with First-principles Method*](https://github.com/MichaelYoshua98/SolarCellCZTS) by [Kevin Octavian](https://www.linkedin.com/in/kevinoctavian/) ([github](https://github.com/kvnoct)) and [Michael Yoshua](https://www.linkedin.com/in/michael-yoshua/).
+- [*Electronic States Mapping in the Intrinsic Defects Formation of the (112)/(<img src="https://render.githubusercontent.com/render/math?math=\overline{112}">) Solar Cells Cu<sub>2</sub>ZnSnS<sub>4</sub> (CZTS) with First-principles Method*](https://github.com/MichaelYoshua98/SolarCellCZTS) by [Kevin Octavian](https://www.linkedin.com/in/kevinoctavian/) ([GitHub](https://github.com/kvnoct)) and [Michael Yoshua](https://www.linkedin.com/in/michael-yoshua/).
     - [VASP Electronic States Parsing Tool](https://github.com/kvnoct/VASP-Electronic-States-Parser) 
 - *Selectivity of Nickel and Cobalt Catalysts for Hydrogen Decomposition on Direct Hydrazine Fuel Cell* by M Ghalib Alfaza.
 
