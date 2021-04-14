@@ -3,7 +3,7 @@
 This repository is a list of undergraduate thesis projects by engineering physics students (batch 2016) at Bandung Institut of Technology (ITB). The list contains the title of the thesis and the authors, where they are linked to the GitHub repository and contacts, respectively.
 
 ### Control
-#### Intelligent Systems
+#### Intelligent System
 - [*UAV Monitoring System with Machine Learning Based Predictive Maintenance and Digital Twin Methods*](https://github.com/rasisbuldan/ta-shop) by Nabila Zahra and [Rasis Syauqi Buldan](https://www.linkedin.com/in/rasis-syauqi-buldan-383837180) ([GitHub](https://github.com/rasisbuldan)).
     - [Dashboard for monitoring and real-time model prediction for Parrot AR Drone 2.0](https://github.com/rasisbuldan/airdash) (NodeJS - TensorflowJS)
  - *Gantry Crane Control System Design Using Adaptive PID Controller Based on LQR, Genetic Algorithm and Q-Learning* by Ananda Putera Dharma and Zulfa Wahyu Wijaya.
@@ -15,8 +15,10 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - [*Speed Control Design of the Automated People Mover System Train Using PID Particle Swarm Optimization Paralleled with Fuzzy Logic Sugeno for Speed and Position Target to Number of Passengers Variations*](https://github.com/msffatur/final-project) by [Adi Dwi Yulianto](https://www.linkedin.com/in/adi-dwi-yulianto-79b9811a1/) and [Muhammad Shafwan Faturrahman](https://github.com/msffatur).
 - [*Study and Implementation of Autonomous Vehicle Lateral Control System via Lyapunov Stability Method and Deep Reinforcement Learning*](https://github.com/dispectra/lyapunov_pf) by [Dimas Apeco Putra](https://github.com/dispectra).
 - *Obstacle Avoidance Control System Design for Autonomous Truck-Trailer with Lane Change Maneuver* by I Komang Agus Jony Wirawan and Indah Radityo Putri.
-#### Instrumentations
+#### Instrumentation
 - *Simulation Control of Inflow Rate and Level of Fluid in Mini Plant Boiler BDT 921 Using PI Controller with Feedback, Cascade, and Feedforward-Feedback Control Strategies* by Ferisyal Ramli and Jiilul Qur'anil Fariq.
+#### Internet of Things
+- *Multi-Location Hydroponics Plant Growth Control System Design Using Internet of Things Format* by Adrian Thomas Roy Budiyanto and Qori Lestari.
 <!-- ** by Muhamad Tartila Sahid. -->
 ### Energy Management
 - *Development of Reinforcement Learning Based Controller for Electric Vehicle Energy Management with Hybrid Energy Storage System* by Arya Syaefulah Farsya and Thoriq Fauzan Ariandi.
@@ -25,12 +27,12 @@ This repository is a list of undergraduate thesis projects by engineering physic
 <!-- ** by Hanafi Kusumayudha and Salsabila. -->
 <!-- ** by Diana Vitonia and Meilisa Dewi Kharisma. -->
 
-### Medical Instrumentations
+### Medical Instrumentation
 - *Study on 3D Imaging of Broadmann Area for Hand Gripping Activity Based on EEG Signal Using ICA-eLORETA* by Angga Bayu Prakhosha and Simon Willyanto Laufried.
 - *Design Exploration of Microcatheter Tip Geometry for Segmental Adrenal Venous Sampling Using Computational Fluid Dynamics* by Johanna Muliany.
 - *Identification of Impulse Response of Dynamic Model of Prototype Suspended Load Backpack with Motion Capture System for Evaluation Backpack Performance Based on Dynamics of Frequency Response to Load Variations* by Dzar Fikri El Faiz and Muhammad Fadhil.
 
-### Building Physics and Acoustics
+### Building Physics and Acoustic
 - [*Designing of Web-Based Distributed Control System for Electric Lighting in SARAGA ITB Tunnel Scale Model*](https://github.com/mumahendras3/saraga-tunnel-electric-lighting-control-prototype) by [Abdurrahman Al Muharrik](https://www.linkedin.com/in/abdurrahmanalmuharik/) and [Muhammad Mahendra Subrata](https://www.linkedin.com/in/mumahendras3/).
 - *Development of Predictive Room Temperature Model Using Gray-Box Modelling* by Larasati Rahma Sya'bannisa and Reyza Arif Mahendra Natawidjaj.
 - *Evaluation and Treatment of Noise in Light Railway Transit Floor Based On Waveguide Finite Element - Boundary Element Method* by Ainil Khairin Nisa and Genta Muhammad Rahayu.
