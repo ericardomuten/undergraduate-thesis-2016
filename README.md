@@ -6,7 +6,8 @@ This repository is a list of undergraduate thesis projects by engineering physic
 #### Intelligent System
 - [*UAV Monitoring System with Machine Learning Based Predictive Maintenance and Digital Twin Methods*](https://github.com/rasisbuldan/ta-shop) by Nabila Zahra and [Rasis Syauqi Buldan](https://www.linkedin.com/in/rasis-syauqi-buldan-383837180) ([GitHub](https://github.com/rasisbuldan)).
     - [Dashboard for monitoring and real-time model prediction for Parrot AR Drone 2.0](https://github.com/rasisbuldan/airdash) (NodeJS - TensorflowJS)
- - *Gantry Crane Control System Design Using Adaptive PID Controller Based on LQR, Genetic Algorithm and Q-Learning* by Ananda Putera Dharma and Zulfa Wahyu Wijaya.
+- *A Genetic Algorithm Based Smart University Timetabling System* by Desani Ramadhan.
+- *Gantry Crane Control System Design Using Adaptive PID Controller Based on LQR, Genetic Algorithm and Q-Learning* by Ananda Putera Dharma and Zulfa Wahyu Wijaya.
 #### Vehicle Automation
 - [*Implementation of Longitudinal and Lateral Control on Autonomous Vehicle*](https://github.com/fadamsyah/final-project) by [Fadillah Adamsyah Ma'ani](https://www.linkedin.com/in/fadamsyah/) and [Prasetyo Wibowo Laksono S.](https://www.linkedin.com/in/prasetyowls/) ([GitHub](https://github.com/mzprz)).
 - [*Perception System Design for Multiple Object Tracking in Autonomous Vehicles*](https://github.com/GilbertTjahjono/Multiple_Object_Tracking) by [Gilbert Tjahjono](https://bit.ly/gilbert_tjahjono) and [Joshua Abel Oktavianus](https://www.linkedin.com/in/joshuaabel20/).
@@ -42,6 +43,7 @@ This repository is a list of undergraduate thesis projects by engineering physic
 - [*Electronic States Mapping in the Intrinsic Defects Formation of the (112)/(<img src="https://render.githubusercontent.com/render/math?math=\overline{112}">) Solar Cells Cu<sub>2</sub>ZnSnS<sub>4</sub> (CZTS) with First-principles Method*](https://github.com/MichaelYoshua98/SolarCellCZTS) by [Kevin Octavian](https://www.linkedin.com/in/kevinoctavian/) ([GitHub](https://github.com/kvnoct)) and [Michael Yoshua](https://www.linkedin.com/in/michael-yoshua/).
     - [VASP Electronic States Parsing Tool](https://github.com/kvnoct/VASP-Electronic-States-Parser) 
 - *Selectivity of Nickel and Cobalt Catalysts for Hydrogen Decomposition on Direct Hydrazine Fuel Cell* by M Ghalib Alfaza.
+- *A Study of Transitional Metal Migration in Nickel-Rich Layered Metal Oxide Cathode* by Ravanny Waraney Moesa Komalig.
 
 ### Quantum Computing
 - [*Quantum Image Classifier Design with Data Re-uploading Quantum Convolution and Data Re-uploading Classifier Scheme*](https://github.com/eraraya-ricardo/quantum_image_classifier) by [Eraraya Ricardo Muten](https://www.linkedin.com/in/e-ricardo/).
